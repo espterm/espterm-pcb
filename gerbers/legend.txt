@@ -1,0 +1,10 @@
+GBL - bottom layer (copper)
+GBO - bottom overlay (silk)
+GBS - bottom solder mask
+GKO - board outline
+GTL - top layer (copper)
+GTO - top overlay (silk)
+STS - top solder mask
+XLN - drill
+
+Format is compatible with OSH Park.
