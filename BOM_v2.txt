@@ -1,0 +1,14 @@
+Comment	Description	Designator	Footprint	LibRef	Quantity	Value
+
+"47u"	""	"C1, C2"	"CPol_B"	"C_EL"	"2"	"47u"
+"RED"	""	"LD1"	"LED_SMD"	"LED"	"1"	"TBD"
+"Header 3"	"Header, 3-Pin"	"P1, P2"	"PIN_1x3_SPARSE"	"Header 3"	"2"	""
+"IRLM6402"	"P-Channel Enhancement Mode Vertical DMOS FET"	"Q1"	"SOT23"	"BSS84"	"1"	"BSS84"
+"ESP-01S"	"ESP-01 in socket"	"Q2"	"ESP_01"	"ESP_01"	"1"	""
+"NCP305LSQ27T1G"	"Voltage Watchdog"	"Q3"	"SC-82"	"NCP305"	"1"	""
+"LD1117A"	"Low drop fixed and adjustable positive voltage regulators"	"Q4"	"SOT-223/DSO-G3/D6.7"	"LD1117A"	"1"	"LD1117AS33"
+"1k"	""	"R1"	"R0805"	"R"	"1"	"1k"
+"10k"	""	"R2, R3"	"R0805"	"R"	"2"	"10k"
+"470R"	""	"R4"	"R1206_Array_longpad"	"R_ARRAY"	"1"	"470R"
+"RESET"	""	"SW1"	"TURTLE_BTN"	"SW_SPST_4PAD"	"1"	""
+"BOOT"	""	"SW2"	"TURTLE_BTN"	"SW_SPST_4PAD"	"1"	""
